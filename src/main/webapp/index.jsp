@@ -4,8 +4,8 @@
     <p>Please fill in this form!</p>
     <hr>
 
-    <label for="email"><b>Email</b></label>
-    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <label for="email"><b>Aadhar_Number</b></label>
+    <input type="text" placeholder="Enter Aadhar" name="email" id="aadhar" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
